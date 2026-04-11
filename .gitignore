@@ -6,6 +6,8 @@ Saved/
 .vs/
 *.sln
 *.VC.db
+Content/__ExternalActors__
+Content/__ExternalObjects__
 
 # OS
 .DS_Store
